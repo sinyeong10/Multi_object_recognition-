@@ -1,0 +1,7 @@
+테스트 프롬프트 예시 : "Transform the image into a Delicate, melancholic, sentimental, calm scene."
+
+"Replace the current background with a mood that is a Passionate, energetic, dynamic, intense" => 5번만
+
+
+CFG 스케일 7
+디노이즈 강도 0.6
