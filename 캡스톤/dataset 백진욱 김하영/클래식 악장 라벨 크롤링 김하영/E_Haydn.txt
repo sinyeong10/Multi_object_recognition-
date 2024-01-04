@@ -1,0 +1,34 @@
+Piano Sonata in C major, Hoboken XVI:7 (1766)
+1 - Energetic, positive, bright, powerful, lively, dynamic, cheerful
+2 - Lively, bright, emotionally engaging, playful
+3 - Lively, vibrant, bright, diverse, cheerful, upbeat, energetic, joyful
+
+Piano Sonata in G major, Hoboken XVI:8 (1766)
+1 - Energetic, lively, rhythmic, cheerful, vibrant
+2 - Stable, cheerful, calm, lively, bright, harmonious, stable, quiet
+3 - Elegant, serene, gentle, graceful, solemn, serious, contrasting
+4 - Calm, peaceful, stable, harmonious, quiet, melodic, beautiful, emotional, gentle, tranquil
+
+Piano Sonata in F major, Hoboken XVI:9 (1766)
+1 - Bright, lively, delightful, energetic, cheerful, joyful
+2 - Lively, vibrant, dynamic, bright, energetic
+3 - Energetic, rhythmic
+
+Piano Sonata in D major, Hoboken XVI:33 (1778)
+1 - Calm, stable, tension-filled, serene, suspenseful
+2 - Joyful, lively, enjoyable, happy, cheerful
+3 - Dynamic, intense
+
+Piano Sonata in C major, Hoboken XVI:35 (1780)
+1 - Energetic, lively, dazzling, intense, dynamic, vibrant, cheerful
+2 - Elegant, refined, calm, gentle, delicate, relaxed, graceful, quiet, serene
+3 - Lively, vibrant, joyful, cheerful, lively, positive, energetic, exuberant
+
+Piano Sonata in G major, Hoboken XVI:40 (1784)
+1 - Lively, bright, energetic, clear, cheerful, pure, vibrant
+2 - Energetic, powerful, dazzling, dynamic, intense, energetic
+
+Piano Sonata in Ab major, Hoboken XVI:43 (1783)
+1 - Bright, lively, elegant, playful, delightful, exciting, energetic, joyful
+2 - Lively, bright, stable, enjoyable, elegant
+3 - Energetic, lively, bright, vibrant, refreshing
